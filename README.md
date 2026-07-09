@@ -1,25 +1,29 @@
-# Portfolio— Freelance Portfolio Template (HTML · Tailwind · Alpine.js)
+# Portfolio — Freelance Portfolio Template (HTML · Tailwind CSS · Alpine.js)
+
 #### Preview
 
- - [Demo](https://)
-
-#### Download
- - [Download from ThemeWagon](http)
+---
 
 ## Getting Started
 
-1. Clone Repository
-```
-git clone https://gi
-```
+1. Download the template package.
 
-## Author 
-```
-Design and code is completely written by Laurent Begey and development team. 
-```
+2. Extract the ZIP file.
 
-## License
+3. Open the project folder.
 
- - Design and Code is Copyright &copy; <a href="https:///" target="_blank">Laurent Begey</a>
- - Licensed cover under [MIT]
- - Distributed by <a href="https://.com" target="_blank">ThemeWagon</a>
+4. Customize the HTML, Tailwind CSS, and Alpine.js files as needed.
+
+5. Upload the files to your web hosting server or use a local development environment.
+
+---
+
+## Author
+
+This template is distributed by **ThemeDokan**.
+
+Design and development credits belong to the original creator. ThemeDokan provides this template for educational, personal, and commercial use according to the applicable terms.
+
+---
+
+**Website:** https://themedokan.com
