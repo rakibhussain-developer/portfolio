@@ -1,20 +1,28 @@
-🚀 Portfolio — Freelance Portfolio Template
+<p align="center">
+  <img src="images/preview.jpeg" alt="Portfolio Preview" width="100%">
+</p>
 
-Built with HTML, Tailwind CSS & Alpine.js
+<p align="center">
+  <img src="images/preview2.jpeg" alt="Portfolio Preview 2" width="100%">
+</p>
+
+# 🚀 Portfolio — Freelance Portfolio Template
+
+**Built with HTML, Tailwind CSS & Alpine.js**
 
 A modern, responsive, and SEO-friendly freelance portfolio template designed for developers, designers, and freelancers. Easily customize and deploy it to showcase your skills, projects, and services.
 
-🌐 Live Demo
+## 🌐 Live Demo
 
 https://rakibhussain-developer.github.io/portfolio/
 
-🎥 Free Domain & Hosting Setup Video
+## 🎥 Free Domain & Hosting Setup Video
 
 https://youtu.be/iYoZ-a9JRoE?si=DG4af1fFUsz-lj5a
 
 ---
 
-📦 Getting Started
+## 📦 Getting Started
 
 1. Download the template package.
 2. Extract the ZIP file.
@@ -24,7 +32,7 @@ https://youtu.be/iYoZ-a9JRoE?si=DG4af1fFUsz-lj5a
 
 ---
 
-✨ Features
+## ✨ Features
 
 - 📱 Fully Responsive Design
 - 🎨 Built with HTML5, Tailwind CSS & Alpine.js
@@ -36,17 +44,35 @@ https://youtu.be/iYoZ-a9JRoE?si=DG4af1fFUsz-lj5a
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 About ThemeDokan
 
-Distributed by ThemeDokan.
+**ThemeDokan** is a digital marketplace for website templates and development resources.
 
-This template is provided for educational, personal, and commercial use in accordance with the applicable license terms.
+We provide:
+
+- 🎨 Ready-made Website Templates
+- 🛒 WordPress Themes & Plugins
+- 📜 PHP & Laravel Scripts
+- 🚀 Landing Page Templates
+- 💼 Portfolio Website Templates
+- 🏢 Business & Agency Website Solutions
+- 🛍️ E-commerce Website Development
+- 🌐 Custom Website Design & Development
+
+Whether you're a freelancer, business owner, or agency, ThemeDokan helps you launch professional websites quickly and affordably.
 
 🌐 Website: https://themedokan.com
+
 ---
 
-⭐ Support
+## 📄 License
 
-If you find this template helpful, consider giving the repository a ⭐ Star on GitHub.
+Please review the applicable license terms before redistributing or reselling this template.
+
+---
+
+## ⭐ Support
+
+If you find this template helpful, consider giving this repository a **⭐ Star** on GitHub.
 
 © ThemeDokan. All rights reserved.
