@@ -43,13 +43,6 @@ Distributed by ThemeDokan.
 This template is provided for educational, personal, and commercial use in accordance with the applicable license terms.
 
 🌐 Website: https://themedokan.com
-
----
-
-📄 License
-
-Please review the applicable license terms before redistributing or reselling this template.
-
 ---
 
 ⭐ Support
